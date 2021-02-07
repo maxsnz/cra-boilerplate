@@ -1,9 +1,9 @@
 {
-  "name": "frontend boilerplate",
+  "name": "frontend-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "git@github.com:maxsnz/cra-boilerplate.git",
+  "repository": "git@github.com:maxsnz/frontend-boilerplate.git",
   "author": "Maksim Vorozhtsov <gmaxsnz@gmail.com>",
   "license": "MIT",
   "private": true,

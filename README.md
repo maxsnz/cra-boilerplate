@@ -1,1 +1,1 @@
-# cra-boilerplate
+# frontend-boilerplate
